@@ -1,0 +1,12 @@
+== React/Rails Expense Demo
+
+This is a React/Rails demo application built following an Airpair tutorial.
+The tutorial uses coffeescript, this repo is the same project with the
+React portion translated into JS/JSX.
+
+* Tutorial: https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
+* Source/Coffeescript: https://github.com/fervisa/accounts-react-rails
+* ES5 version: https://github.com/rickster88/accounts-react-rails-jsx
+* Credit to https://github.com/fervisa for original content
+
+The title and description of this repo were borrowed from https://github.com/rickster88/accounts-react-rails-jsx
