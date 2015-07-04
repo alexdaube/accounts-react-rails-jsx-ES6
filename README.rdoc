@@ -2,7 +2,7 @@
 
 This is a React/Rails demo application built following an Airpair tutorial.
 The tutorial uses coffeescript, this repo is the same project with the
-React portion translated into JS/JSX.
+React portion translated into JS/JSX and ES6.
 
 * Tutorial: https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
 * Source/Coffeescript: https://github.com/fervisa/accounts-react-rails
