@@ -51,7 +51,7 @@ class RecordForm extends BaseComponent {
                     <input type="number" className="form-control" placeholder="Amount"
                            name="amount" value={this.state.amount} onChange={this.handleChange} />
                 </div>
-                <button type="submit" className="btn btn-primary" disabled={!this.valid}>
+                <button type="submit" className="btn btn-primary" disabled={!this.valid()}>
                     Create Record
                 </button>
             </form>
